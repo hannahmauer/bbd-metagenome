@@ -1,9 +1,7 @@
 # The Metagenome of Black Band Disease
 
 <!--
-This README is the front page of your repository on GitHub. Replace this
-template text with your own introduction. A few sentences is enough: what
-the data are, what you did with them and what you found.
+This is practice for setting up our genomics module for MB5370. I believe we will end up hiding these from our github accounts but if not hiii. :)
 -->
 
 Assembly, binning and functional analysis of a nanopore metagenome from black band disease (BBD) on the coral *Acropora hyacinthus*, done for [Workshop 4](https://mb5370.bioinformatics.guide/workshop4.html) of the MB5370 Marine Genomics module.
